@@ -1,0 +1,13 @@
+a=[1,2,3,4,5]
+print(a)
+a.append("san")
+a.append(True)
+a.append(1)
+print(a)
+a.insert(0,6)
+print(a)
+a.pop(0)
+print(a)
+b=[7,8,9]
+a.extend(b)
+print(a)
