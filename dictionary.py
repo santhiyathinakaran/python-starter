@@ -1,0 +1,9 @@
+a={"name":"santhiya",
+   "age":"20",
+   "depertment":"IT",
+   }
+a["color"]="red"
+print(a)
+a.pop("age")
+print(a.keys())
+print(a.values())
