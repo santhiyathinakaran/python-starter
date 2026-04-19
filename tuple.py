@@ -1,0 +1,5 @@
+a=(1,2,3,4,5)
+b=list(a)
+print(b)
+b.pop(4)
+print(b)
